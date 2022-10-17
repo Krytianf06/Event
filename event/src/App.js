@@ -1,10 +1,11 @@
 import React from 'react';
+import Dane from './ApiClient/apiClient';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <p> nic tu nie ma</p>
+      <Dane />
     </div>
   );
 }
