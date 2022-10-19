@@ -1,0 +1,29 @@
+.header {
+    height: 446px;
+    margin: 0 auto;
+    background-image: url(./images/header-image-desktop.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  
+};
+
+.logo {
+
+};
+
+.svg {
+    background-color: black;
+    fill: yellow;
+};
+
+
+.svg2 {
+    color: rgb(0, 0, 0);
+    fill: rgb(68, 0, 255);
+    fill: #939393;
+};
+
+.btn {
+    background-color: rgb(128, 0, 92);
+}
